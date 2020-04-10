@@ -6,4 +6,4 @@ This is an experiment to test the efficiency of different programming languages.
 The versions are:
 - Made in C#: [This repo.](https://github.com/cainy-a/CountDownTimerSharp)
 - Made in Rust: [CountDownTimerRust](https://github.com/cainy-a/CountDownTimerRust)
-- Made in Python 3: [CountDownTimerRust](https://github.com/cainy-a/CountDownTimerRust)
+- Made in Python 3: [CountDownTimerPy](https://github.com/cainy-a/CountDownTimerPy)
