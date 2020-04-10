@@ -9,6 +9,6 @@ The versions are:
 - Made in Python 3: [CountDownTimerPy](https://github.com/cainy-a/CountDownTimerPy)
 
 Download:
-- [Rust version (Linux)](https://github.com/cainy-a/CountDownTimerRust/releases/download/latest/countdown_speed_test)
-- [C# version (Linux)](https://github.com/cainy-a/CountDownTimerSharp/releases/download/latest/CountdownSpeedTest)
-- [Python 3 version](https://github.com/cainy-a/CountDownTimerPy/releases/download/latest/Main.py)
+- [Rust version (Linux)](https://github.com/cainy-a/CountDownTimerRust/releases/download/v1/countdown_speed_test)
+- [C# version (Linux)](https://github.com/cainy-a/CountDownTimerSharp/releases/download/v1/CountdownSpeedTest)
+- [Python 3 version](https://github.com/cainy-a/CountDownTimerPy/releases/download/v1/Main.py)
