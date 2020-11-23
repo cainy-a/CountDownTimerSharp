@@ -1,5 +1,5 @@
 # CountDownTimer
-Programming Language Experiment. Very Very Roughly O(0.3n).
+Programming Language Experiment. O(n).
 
 This is an experiment to test the efficiency of different programming languages.
 
